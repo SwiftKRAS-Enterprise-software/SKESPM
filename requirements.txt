@@ -1,0 +1,1 @@
+click>=8.2.0.dev0setuptools>=63.2.0

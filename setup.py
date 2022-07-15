@@ -5,12 +5,12 @@ with open("README.md", "r") as readme_file:
 
 
 setup(
-    name='SKESPM',
+    name='skpojmgr',
 
     version='1.0.2a1',
 
     packages=[
-        'SKESPM',
+        'SKESPMdir',
     ],
 
     url='https://github.com/SwiftKRAS-Enterprise-software/project-manager',
