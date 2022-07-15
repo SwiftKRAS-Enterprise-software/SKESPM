@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+MANIFEST
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+
+dev/
+develop-eggs/
+
+dist/
+
+downloads/
+
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+lib/
+lib64/
+
+parts/
+
+sdist/
+
+var/
+
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+
+.installed.cfg
+
+# SKES
+/.skes/
+/.skesproject.conf
